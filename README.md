@@ -37,13 +37,13 @@
 
 ### Running the Application
 
-1.  Start a local web server (e.g., using `http-server`, `live-server`, or `webpack-dev-server`):
+1.  Start Vite Development server
 
     ```bash
-    npx http-server # or another server command
+    npx run dev
     ```
 
-2.  Open your browser and navigate to the server's address (usually `http://localhost:8080`).
+2.  Open your browser and navigate to the server's address (usually `http://localhost:5173`).
 
 ## Usage
 
