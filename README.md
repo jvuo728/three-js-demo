@@ -40,7 +40,7 @@
 1.  Start Vite Development server
 
     ```bash
-    npx run dev
+    npm run dev
     ```
 
 2.  Open your browser and navigate to the server's address (usually `http://localhost:5173`).
